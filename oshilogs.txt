@@ -1,0 +1,120 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VOYXZpcmE/c21hcG9ja2VOYXZpcmE/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Navira =====
+[1]Navira      |16:42:52 | 13-10-2026| login OK @gnavira | score=1010 rank=6254
+[1]Navira      |16:42:52 | 13-10-2026| serverTime=2026-10-13T16:42:52.000Z local=2026-10-13T16:42:52.112Z
+--> [1]Navira menjalankan: Claim Daily
+[1]Navira      |16:42:52 | 13-10-2026| daily: OK +10 poin score=1020
+--> [1]Navira menjalankan: Auto All Tasks (15 pending)
+[1]Navira      |16:42:54 | 13-10-2026| [1/15] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gnavira/status/2110048210675524401
+[1]Navira      |16:42:54 | 13-10-2026| delay 10s...
+[1]Navira      |16:43:06 | 13-10-2026| [2/15] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gnavira/status/2110048111690509172
+[1]Navira      |16:43:06 | 13-10-2026| delay 10s...
+[1]Navira      |16:43:18 | 13-10-2026| [3/15] 07e08c90 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gnavira/status/2110048339214712390
+[1]Navira      |16:43:18 | 13-10-2026| delay 10s...
+[1]Navira      |16:43:29 | 13-10-2026| [4/15] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gnavira/status/2110048220037757235
+[1]Navira      |16:43:29 | 13-10-2026| delay 10s...
+[1]Navira      |16:43:41 | 13-10-2026| [5/15] b3500764 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gnavira/status/2110048533029768624
+[1]Navira      |16:43:41 | 13-10-2026| delay 10s...
+[1]Navira      |16:43:53 | 13-10-2026| [6/15] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gnavira/status/2110048295979741537
+[1]Navira      |16:43:53 | 13-10-2026| delay 10s...
+[1]Navira      |16:44:07 | 13-10-2026| [7/15] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gnavira/status/2110048399082466495
+[1]Navira      |16:44:07 | 13-10-2026| delay 10s...
+[1]Navira      |16:44:19 | 13-10-2026| [8/15] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gnavira/status/2110048603169192823
+[1]Navira      |16:44:19 | 13-10-2026| delay 10s...
+[1]Navira      |16:44:30 | 13-10-2026| [9/15] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Navira      |16:44:30 | 13-10-2026| delay 10s...
+[1]Navira      |16:44:46 | 13-10-2026| [10/15] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gnavira/status/2110048655163204415
+[1]Navira      |16:44:46 | 13-10-2026| delay 10s...
+[1]Navira      |16:44:59 | 13-10-2026| [11/15] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gnavira/status/2110048604551124775
+[1]Navira      |16:44:59 | 13-10-2026| delay 10s...
+[1]Navira      |16:45:11 | 13-10-2026| [12/15] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gnavira/status/2110048799898864086
+[1]Navira      |16:45:11 | 13-10-2026| delay 10s...
+[1]Navira      |16:45:22 | 13-10-2026| [13/15] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gnavira/status/2110048945996983930
+[1]Navira      |16:45:22 | 13-10-2026| delay 10s...
+[1]Navira      |16:45:36 | 13-10-2026| [14/15] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Navira      |16:45:36 | 13-10-2026| delay 10s...
+[1]Navira      |16:45:52 | 13-10-2026| [15/15] 34f1e829 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Navira      |16:45:52 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Navira      |16:45:54 | 13-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/gnavira/status/2110049058505838503
+--> [1]Navira menjalankan: Watch Anime
+[1]Navira      |16:45:55 | 13-10-2026| watch: 4 video belum completed: oshi-first-journey,oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Navira      |16:45:55 | 13-10-2026| watch [1/4] farming oshi-first-journey...
+[1]Navira      |16:45:55 | 13-10-2026| watch oshi-first-journey: mulai dari 0 (record 77.8s diabaikan)
+[1]Navira      |16:45:56 | 13-10-2026| watch oshi-first-journey: 89% (77.76/87.00s)
+[1]Navira      |16:46:03 | 13-10-2026| watch oshi-first-journey: 89% (77.96/87.00s)
+[1]Navira      |16:46:09 | 13-10-2026| watch oshi-first-journey: 89% (77.96/87.00s)
+[1]Navira      |16:46:14 | 13-10-2026| watch oshi-first-journey: 89% (77.96/87.00s)
+[1]Navira      |16:46:21 | 13-10-2026| watch oshi-first-journey: 89% (77.96/87.00s)
+[1]Navira      |16:46:27 | 13-10-2026| watch oshi-first-journey: 89% (77.96/87.00s)
+[1]Navira      |16:46:33 | 13-10-2026| watch oshi-first-journey: 89% (77.96/87.00s)
+[1]Navira      |16:46:39 | 13-10-2026| watch oshi-first-journey: 89% (77.96/87.00s)
+[1]Navira      |16:46:44 | 13-10-2026| watch oshi-first-journey: 89% (77.96/87.00s)
+[1]Navira      |16:46:51 | 13-10-2026| watch oshi-first-journey: 89% (77.96/87.00s)
+[1]Navira      |16:46:58 | 13-10-2026| watch oshi-first-journey: 90% (78.78/87.00s)
+[1]Navira      |16:46:58 | 13-10-2026| watch oshi-first-journey: COMPLETED (78.78/87.00s)
+[1]Navira      |16:47:03 | 13-10-2026| watch [2/4] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +4)
+[1]Navira      |16:47:05 | 13-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Navira      |16:47:10 | 13-10-2026| watch [3/4] farming oshi-rainbow-star...
+[1]Navira      |16:47:11 | 13-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Navira      |16:47:16 | 13-10-2026| watch [4/4] farming oshi-rainbow-lighthouse...
+[1]Navira      |16:47:18 | 13-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+--> [1]Navira menjalankan: Read Article
+[1]Navira      |16:47:19 | 13-10-2026| news: 24/24 artikel selesai dibaca
+[1]Navira      |16:47:20 | 13-10-2026| mint eligibility: {"userId":"1686881794124382209","youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true,"attemptedAt":null,"chann
+[1]Navira      |16:47:20 | 13-10-2026| news: semua artikel sudah dibaca
+--> [1]Navira menjalankan: Quiz Anime
+[1]Navira      |16:47:20 | 13-10-2026| quiz ep1: sudah dijawab
+[1]Navira      |16:47:20 | 13-10-2026| quiz ep2: sudah dijawab
+[1]Navira      |16:47:20 | 13-10-2026| quiz ep3: sudah dijawab
+[1]Navira      |16:47:20 | 13-10-2026| quiz ep4: sudah dijawab
+[1]Navira      |16:47:20 | 13-10-2026| quiz ep5: sudah dijawab
+[1]Navira      |16:47:20 | 13-10-2026| quiz ep6: sudah dijawab
+--> [1]Navira menjalankan: Music Missions (realtime, bisa lama!)
+[1]Navira      |16:47:23 | 13-10-2026| music: kedua misi sudah tercapai, stop
+[1]Navira      |16:47:23 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Navira      |16:47:23 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Navira      |16:47:23 | 13-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Navira menjalankan: Claim Missions
+[1]Navira      |16:47:23 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Navira      |16:47:23 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Navira      |16:47:23 | 13-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Navira menjalankan: Check Eligibility
+
+--- eligibility [1]Navira ---
+  @gnavira | score=1010 rank=6254
+  tasks    [################----] 66/81
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
+
+--> [1]Navira menjalankan: Read Manga
+[1]Navira      |16:47:29 | 13-10-2026| manga: 0/13 chapter belum completed
+--> [1]Navira menjalankan: Get Gift
+[1]Navira      |16:47:30 | 13-10-2026| gift: 1/4 belum diterima
+[1]Navira      |16:47:30 | 13-10-2026| gift [1/1] Silver Oshii: OK
+--> [1]Navira menjalankan: Setup Profile
+[1]Navira      |16:47:33 | 13-10-2026| profile: bio="https://x.com/gnavira" fav=kagura rewardAt=1791684761
+[1]Navira      |16:47:33 | 13-10-2026| profile: bonus sudah diklaim, skip
+--> [1]Navira menjalankan: Bind Wallet
+[1]Navira      |16:47:33 | 13-10-2026| wallet: sudah terikat 7exCTQFSfe... (solana)
+
+== RINGKASAN ==
+- Navira: daily=claimed | tasks OK 16/16 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/4 diterima | profile - | wallet bound | mint req=false open=false
