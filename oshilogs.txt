@@ -12,150 +12,99 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Navira =====
-[1]Navira      |07:22:52 | 20-10-2026| login OK @gnavira | score=1510 rank=4669
-[1]Navira      |07:22:52 | 20-10-2026| serverTime=2026-10-20T07:22:51.000Z local=2026-10-20T07:22:52.027Z
+[1]Navira      |05:40:18 | 22-10-2026| login OK @gnavira | score=1590 rank=4526
+[1]Navira      |05:40:18 | 22-10-2026| serverTime=2026-10-22T05:40:18.000Z local=2026-10-22T05:40:18.221Z
 --> [1]Navira menjalankan: Claim Daily
-[1]Navira      |07:22:53 | 20-10-2026| daily: OK +10 poin score=1520
---> [1]Navira menjalankan: Auto All Tasks (7 pending)
-[1]Navira      |07:22:55 | 20-10-2026| [1/7] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/gnavira/status/2112444035922917661
-[1]Navira      |07:22:55 | 20-10-2026| delay 10s...
-[1]Navira      |07:23:07 | 20-10-2026| [2/7] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/gnavira/status/2112444077552643689
-[1]Navira      |07:23:07 | 20-10-2026| delay 10s...
-[1]Navira      |07:23:19 | 20-10-2026| [3/7] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/gnavira/status/2112444079941203675
-[1]Navira      |07:23:19 | 20-10-2026| delay 10s...
-[1]Navira      |07:23:32 | 20-10-2026| [4/7] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/gnavira/status/2112444219494059534
-[1]Navira      |07:23:32 | 20-10-2026| delay 10s...
-[1]Navira      |07:23:44 | 20-10-2026| [5/7] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/gnavira/status/2112444271798668332
-[1]Navira      |07:23:44 | 20-10-2026| delay 10s...
-[1]Navira      |07:23:57 | 20-10-2026| [6/7] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/gnavira/status/2112444076067602997
-[1]Navira      |07:23:57 | 20-10-2026| delay 10s...
-[1]Navira      |07:24:09 | 20-10-2026| [7/7] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/gnavira/status/2112444111534279496
-[1]Navira      |07:24:09 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Navira      |07:24:11 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/gnavira/status/2112444188007612310
+[1]Navira      |05:40:19 | 22-10-2026| daily: OK +10 poin score=1600
+--> [1]Navira menjalankan: Auto All Tasks (11 pending)
+[1]Navira      |05:40:21 | 22-10-2026| [1/11] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/gnavira/status/2113142764512286767
+[1]Navira      |05:40:21 | 22-10-2026| delay 10s...
+[1]Navira      |05:40:32 | 22-10-2026| [2/11] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/gnavira/status/2113143128595105433
+[1]Navira      |05:40:32 | 22-10-2026| delay 10s...
+[1]Navira      |05:40:45 | 22-10-2026| [3/11] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/gnavira/status/2113143211526351697
+[1]Navira      |05:40:45 | 22-10-2026| delay 10s...
+[1]Navira      |05:40:58 | 22-10-2026| [4/11] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/gnavira/status/2113143140234002132
+[1]Navira      |05:40:58 | 22-10-2026| delay 10s...
+[1]Navira      |05:41:09 | 22-10-2026| [5/11] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/gnavira/status/2113143162280844166
+[1]Navira      |05:41:09 | 22-10-2026| delay 10s...
+[1]Navira      |05:41:21 | 22-10-2026| [6/11] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/gnavira/status/2113143115279094963
+[1]Navira      |05:41:21 | 22-10-2026| delay 10s...
+[1]Navira      |05:41:34 | 22-10-2026| [7/11] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/gnavira/status/2113143236439602965
+[1]Navira      |05:41:34 | 22-10-2026| delay 10s...
+[1]Navira      |05:41:45 | 22-10-2026| [8/11] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/gnavira/status/2113143187270168710
+[1]Navira      |05:41:45 | 22-10-2026| delay 10s...
+[1]Navira      |05:41:58 | 22-10-2026| [9/11] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/gnavira/status/2113143329374948544
+[1]Navira      |05:41:58 | 22-10-2026| delay 10s...
+[1]Navira      |05:42:10 | 22-10-2026| [10/11] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/gnavira/status/2113143292682697339
+[1]Navira      |05:42:10 | 22-10-2026| delay 10s...
+[1]Navira      |05:42:21 | 22-10-2026| [11/11] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054
+[1]Navira      |05:42:21 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Navira      |05:42:23 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/gnavira/status/2113143354519943778
 --> [1]Navira menjalankan: Watch Anime
-[1]Navira      |07:24:12 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Navira      |07:24:12 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
-[1]Navira      |07:24:14 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Navira      |07:24:20 | 20-10-2026| watch oshi-captains-hat: 5% (5.24/92.00s)
-[1]Navira      |07:24:26 | 20-10-2026| watch oshi-captains-hat: 11% (10.96/92.00s)
-[1]Navira      |07:24:33 | 20-10-2026| watch oshi-captains-hat: 18% (16.74/92.00s)
-[1]Navira      |07:24:39 | 20-10-2026| watch oshi-captains-hat: 24% (22.59/92.00s)
-[1]Navira      |07:24:46 | 20-10-2026| watch oshi-captains-hat: 30% (28.12/92.00s)
-[1]Navira      |07:24:52 | 20-10-2026| watch oshi-captains-hat: 36% (33.99/92.00s)
-[1]Navira      |07:24:58 | 20-10-2026| watch oshi-captains-hat: 43% (39.67/92.00s)
-[1]Navira      |07:25:05 | 20-10-2026| watch oshi-captains-hat: 49% (45.52/92.00s)
-[1]Navira      |07:25:12 | 20-10-2026| watch oshi-captains-hat: 55% (51.35/92.00s)
-[1]Navira      |07:25:23 | 20-10-2026| watch oshi-captains-hat: 63% (58.04/92.00s)
-[1]Navira      |07:25:29 | 20-10-2026| watch oshi-captains-hat: heartbeat GAGAL http=503
-[1]Navira      |07:25:34 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Navira      |07:25:35 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
-[1]Navira      |07:25:42 | 20-10-2026| watch oshi-rainbow-star: 6% (5.27/86.00s)
-[1]Navira      |07:25:48 | 20-10-2026| watch oshi-rainbow-star: 12% (10.98/86.00s)
-[1]Navira      |07:25:54 | 20-10-2026| watch oshi-rainbow-star: 19% (16.77/86.00s)
-[1]Navira      |07:26:00 | 20-10-2026| watch oshi-rainbow-star: 25% (22.29/86.00s)
-[1]Navira      |07:26:07 | 20-10-2026| watch oshi-rainbow-star: 32% (27.83/86.00s)
-[1]Navira      |07:26:13 | 20-10-2026| watch oshi-rainbow-star: 39% (33.61/86.00s)
-[1]Navira      |07:26:20 | 20-10-2026| watch oshi-rainbow-star: 45% (39.46/86.00s)
-[1]Navira      |07:26:26 | 20-10-2026| watch oshi-rainbow-star: 52% (45.35/86.00s)
-[1]Navira      |07:26:32 | 20-10-2026| watch oshi-rainbow-star: 59% (51.14/86.00s)
-[1]Navira      |07:26:39 | 20-10-2026| watch oshi-rainbow-star: 65% (56.69/86.00s)
-[1]Navira      |07:26:45 | 20-10-2026| watch oshi-rainbow-star: 72% (62.54/86.00s)
-[1]Navira      |07:26:52 | 20-10-2026| watch oshi-rainbow-star: 79% (68.07/86.00s)
-[1]Navira      |07:26:59 | 20-10-2026| watch oshi-rainbow-star: 85% (73.95/86.00s)
-[1]Navira      |07:27:05 | 20-10-2026| watch oshi-rainbow-star: 93% (80.15/86.00s)
-[1]Navira      |07:27:05 | 20-10-2026| watch oshi-rainbow-star: COMPLETED (80.15/86.00s)
-[1]Navira      |07:27:10 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Navira      |07:27:12 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
-[1]Navira      |07:27:18 | 20-10-2026| watch oshi-rainbow-lighthouse: 6% (5.67/87.00s)
-[1]Navira      |07:27:25 | 20-10-2026| watch oshi-rainbow-lighthouse: 12% (11.24/87.00s)
-[1]Navira      |07:27:31 | 20-10-2026| watch oshi-rainbow-lighthouse: 19% (16.91/87.00s)
-[1]Navira      |07:27:37 | 20-10-2026| watch oshi-rainbow-lighthouse: 26% (22.66/87.00s)
-[1]Navira      |07:27:43 | 20-10-2026| watch oshi-rainbow-lighthouse: 32% (28.19/87.00s)
-[1]Navira      |07:27:50 | 20-10-2026| watch oshi-rainbow-lighthouse: 38% (33.71/87.00s)
-[1]Navira      |07:27:56 | 20-10-2026| watch oshi-rainbow-lighthouse: 45% (39.44/87.00s)
-[1]Navira      |07:28:02 | 20-10-2026| watch oshi-rainbow-lighthouse: 51% (44.99/87.00s)
-[1]Navira      |07:28:09 | 20-10-2026| watch oshi-rainbow-lighthouse: 58% (50.62/87.00s)
-[1]Navira      |07:28:15 | 20-10-2026| watch oshi-rainbow-lighthouse: 65% (56.61/87.00s)
-[1]Navira      |07:28:22 | 20-10-2026| watch oshi-rainbow-lighthouse: 71% (62.51/87.00s)
-[1]Navira      |07:28:28 | 20-10-2026| watch oshi-rainbow-lighthouse: 78% (68.49/87.00s)
-[1]Navira      |07:28:35 | 20-10-2026| watch oshi-rainbow-lighthouse: 85% (74.03/87.00s)
-[1]Navira      |07:28:41 | 20-10-2026| watch oshi-rainbow-lighthouse: 92% (80.32/87.00s)
-[1]Navira      |07:28:41 | 20-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (80.32/87.00s)
-[1]Navira      |07:28:46 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Navira      |07:28:49 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Navira      |07:28:55 | 20-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.25/181.00s)
-[1]Navira      |07:29:01 | 20-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.78/181.00s)
-[1]Navira      |07:29:08 | 20-10-2026| watch bakeru-ikesou-jan-mv: 9% (16.60/181.00s)
-[1]Navira      |07:29:15 | 20-10-2026| watch bakeru-ikesou-jan-mv: 12% (22.17/181.00s)
-[1]Navira      |07:29:21 | 20-10-2026| watch bakeru-ikesou-jan-mv: 15% (28.65/181.00s)
-[1]Navira      |07:29:27 | 20-10-2026| watch bakeru-ikesou-jan-mv: 18% (34.16/181.00s)
-[1]Navira      |07:29:37 | 20-10-2026| watch bakeru-ikesou-jan-mv: 22% (39.91/181.00s)
-[1]Navira      |07:29:43 | 20-10-2026| watch bakeru-ikesou-jan-mv: 25% (46.42/181.00s)
-[1]Navira      |07:29:50 | 20-10-2026| watch bakeru-ikesou-jan-mv: 29% (52.74/181.00s)
-[1]Navira      |07:29:56 | 20-10-2026| watch bakeru-ikesou-jan-mv: 32% (58.88/181.00s)
-[1]Navira      |07:30:03 | 20-10-2026| watch bakeru-ikesou-jan-mv: 36% (65.48/181.00s)
-[1]Navira      |07:30:10 | 20-10-2026| watch bakeru-ikesou-jan-mv: 39% (72.20/181.00s)
-[1]Navira      |07:30:23 | 20-10-2026| watch bakeru-ikesou-jan-mv: 43% (77.98/181.00s)
-[1]Navira      |07:30:29 | 20-10-2026| watch bakeru-ikesou-jan-mv: 43% (77.98/181.00s)
-[1]Navira      |07:30:35 | 20-10-2026| watch bakeru-ikesou-jan-mv: 46% (83.51/181.00s)
-[1]Navira      |07:30:42 | 20-10-2026| watch bakeru-ikesou-jan-mv: 49% (89.05/181.00s)
-[1]Navira      |07:30:48 | 20-10-2026| watch bakeru-ikesou-jan-mv: 52% (95.12/181.00s)
-[1]Navira      |07:30:54 | 20-10-2026| watch bakeru-ikesou-jan-mv: 55% (100.62/181.00s)
-[1]Navira      |07:31:01 | 20-10-2026| watch bakeru-ikesou-jan-mv: 58% (106.36/181.00s)
-[1]Navira      |07:31:08 | 20-10-2026| watch bakeru-ikesou-jan-mv: 62% (112.23/181.00s)
-[1]Navira      |07:31:15 | 20-10-2026| watch bakeru-ikesou-jan-mv: 65% (118.81/181.00s)
-[1]Navira      |07:31:22 | 20-10-2026| watch bakeru-ikesou-jan-mv: 69% (125.29/181.00s)
-[1]Navira      |07:31:28 | 20-10-2026| watch bakeru-ikesou-jan-mv: 72% (131.39/181.00s)
-[1]Navira      |07:31:35 | 20-10-2026| watch bakeru-ikesou-jan-mv: 75% (137.23/181.00s)
-[1]Navira      |07:31:41 | 20-10-2026| watch bakeru-ikesou-jan-mv: 78% (142.85/181.00s)
-[1]Navira      |07:31:47 | 20-10-2026| watch bakeru-ikesou-jan-mv: 81% (148.35/181.00s)
-[1]Navira      |07:31:53 | 20-10-2026| watch bakeru-ikesou-jan-mv: 85% (154.24/181.00s)
-[1]Navira      |07:32:00 | 20-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.73/181.00s)
-[1]Navira      |07:32:06 | 20-10-2026| watch bakeru-ikesou-jan-mv: 91% (165.24/181.00s)
-[1]Navira      |07:32:06 | 20-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (165.24/181.00s)
+[1]Navira      |05:42:24 | 22-10-2026| watch: 1 video belum completed: oshi-captains-hat
+[1]Navira      |05:42:24 | 22-10-2026| watch [1/1] farming oshi-captains-hat...
+[1]Navira      |05:42:25 | 22-10-2026| watch oshi-captains-hat: mulai dari 0 (record 58.0s diabaikan)
+[1]Navira      |05:42:26 | 22-10-2026| watch oshi-captains-hat: 63% (58.04/92.00s)
+[1]Navira      |05:42:32 | 22-10-2026| watch oshi-captains-hat: 63% (58.04/92.00s)
+[1]Navira      |05:42:38 | 22-10-2026| watch oshi-captains-hat: 63% (58.04/92.00s)
+[1]Navira      |05:42:45 | 22-10-2026| watch oshi-captains-hat: 63% (58.04/92.00s)
+[1]Navira      |05:42:51 | 22-10-2026| watch oshi-captains-hat: 63% (58.04/92.00s)
+[1]Navira      |05:42:57 | 22-10-2026| watch oshi-captains-hat: 63% (58.04/92.00s)
+[1]Navira      |05:43:03 | 22-10-2026| watch oshi-captains-hat: 63% (58.04/92.00s)
+[1]Navira      |05:43:10 | 22-10-2026| watch oshi-captains-hat: 63% (58.04/92.00s)
+[1]Navira      |05:43:16 | 22-10-2026| watch oshi-captains-hat: 63% (58.04/92.00s)
+[1]Navira      |05:43:22 | 22-10-2026| watch oshi-captains-hat: 63% (58.04/92.00s)
+[1]Navira      |05:43:28 | 22-10-2026| watch oshi-captains-hat: 63% (58.04/92.00s)
+[1]Navira      |05:43:35 | 22-10-2026| watch oshi-captains-hat: 67% (62.01/92.00s)
+[1]Navira      |05:43:41 | 22-10-2026| watch oshi-captains-hat: 73% (67.69/92.00s)
+[1]Navira      |05:43:48 | 22-10-2026| watch oshi-captains-hat: 80% (73.67/92.00s)
+[1]Navira      |05:43:54 | 22-10-2026| watch oshi-captains-hat: 86% (79.38/92.00s)
+[1]Navira      |05:44:00 | 22-10-2026| watch oshi-captains-hat: 92% (84.87/92.00s)
+[1]Navira      |05:44:00 | 22-10-2026| watch oshi-captains-hat: COMPLETED (84.87/92.00s)
 --> [1]Navira menjalankan: Read Article
-[1]Navira      |07:32:08 | 20-10-2026| news: 27/27 artikel selesai dibaca
-[1]Navira      |07:32:09 | 20-10-2026| mint eligibility: {"userId":"1686881794124382209","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Navira      |07:32:09 | 20-10-2026| news: semua artikel sudah dibaca
+[1]Navira      |05:44:02 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Navira      |05:44:03 | 22-10-2026| mint eligibility: {"userId":"1686881794124382209","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Navira      |05:44:09 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Navira      |05:44:17 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Navira menjalankan: Quiz Anime
-[1]Navira      |07:32:09 | 20-10-2026| quiz ep1: sudah dijawab
-[1]Navira      |07:32:09 | 20-10-2026| quiz ep2: sudah dijawab
-[1]Navira      |07:32:09 | 20-10-2026| quiz ep3: sudah dijawab
-[1]Navira      |07:32:09 | 20-10-2026| quiz ep4: sudah dijawab
-[1]Navira      |07:32:09 | 20-10-2026| quiz ep5: sudah dijawab
-[1]Navira      |07:32:09 | 20-10-2026| quiz ep6: sudah dijawab
+[1]Navira      |05:44:20 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Navira      |05:44:20 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Navira      |05:44:20 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Navira      |05:44:20 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Navira      |05:44:20 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Navira      |05:44:20 | 22-10-2026| quiz ep6: sudah dijawab
 --> [1]Navira menjalankan: Music Missions (realtime, bisa lama!)
-[1]Navira      |07:32:12 | 20-10-2026| music: kedua misi sudah tercapai, stop
-[1]Navira      |07:32:12 | 20-10-2026| mission music-listens-10: sudah diklaim
-[1]Navira      |07:32:12 | 20-10-2026| mission music-minutes-30: sudah diklaim
-[1]Navira      |07:32:12 | 20-10-2026| mission anime-completed-3: sudah diklaim
+[1]Navira      |05:44:22 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Navira      |05:44:23 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Navira      |05:44:23 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Navira      |05:44:23 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Navira menjalankan: Claim Missions
-[1]Navira      |07:32:13 | 20-10-2026| mission music-listens-10: sudah diklaim
-[1]Navira      |07:32:13 | 20-10-2026| mission music-minutes-30: sudah diklaim
-[1]Navira      |07:32:13 | 20-10-2026| mission anime-completed-3: sudah diklaim
+[1]Navira      |05:44:23 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Navira      |05:44:23 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Navira      |05:44:23 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Navira menjalankan: Check Eligibility
 
 --- eligibility [1]Navira ---
-  @gnavira | score=1510 rank=4669
-  tasks    [##################--] 73/80
+  @gnavira | score=1590 rank=4526
+  tasks    [#################---] 73/84
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
-  watch    [####################] 21/17
+  watch    [####################] 22/17
   music    [####################] 11/11
   artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Navira menjalankan: Read Manga
-[1]Navira      |07:32:17 | 20-10-2026| manga: 0/13 chapter belum completed
+[1]Navira      |05:44:27 | 22-10-2026| manga: 0/13 chapter belum completed
 --> [1]Navira menjalankan: Get Gift
-[1]Navira      |07:32:18 | 20-10-2026| gift: 0/4 belum diterima
+[1]Navira      |05:44:28 | 22-10-2026| gift: 0/4 belum diterima
 --> [1]Navira menjalankan: Setup Profile
-[1]Navira      |07:32:19 | 20-10-2026| profile: bio="https://x.com/gnavira" fav=kagura rewardAt=1791684761
-[1]Navira      |07:32:19 | 20-10-2026| profile: bonus sudah diklaim, skip
+[1]Navira      |05:44:28 | 22-10-2026| profile: bio="https://x.com/gnavira" fav=kagura rewardAt=1791684761
+[1]Navira      |05:44:28 | 22-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Navira menjalankan: Bind Wallet
-[1]Navira      |07:32:19 | 20-10-2026| wallet: sudah terikat 7exCTQFSfe... (solana)
+[1]Navira      |05:44:29 | 22-10-2026| wallet: sudah terikat 7exCTQFSfe... (solana)
 
 == RINGKASAN ==
-- Navira: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 3/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Navira: daily=claimed | tasks OK 12/12 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
